@@ -1,0 +1,23 @@
+[
+  {
+    "text": "// NovaScript function example\nfunc greet(name) {\n    print(\"Hello, \" + name + \"!\");\n}"
+  },
+  {
+    "text": "// NovaCore low-level memory op\n@syscall(\"mem_alloc\")\nfn allocate(size: u64) -> *u8;"
+  },
+  {
+    "text": "# CLI usage pattern\nnova compile hello.ns --optimize --emit-bytecode"
+  },
+  {
+    "text": "// System log\n[INFO] Initialized NovaShell at 0x0000_FFFF\n[DEBUG] Memory pages loaded: 256"
+  },
+  {
+    "text": "// Scripted task\nlet files = scan(\"/usr/apps\");\nfor file in files {\n    if (file.endsWith(\".ns\")) load(file);\n}"
+  },
+  {
+    "text": "// NovaAI internal rule\n@confirm(\"Flush DNS cache?\")\nsystem.dns.flush()"
+  },
+  {
+    "text": "# OS automation\nnova update --security-only && nova reboot"
+  }
+]
