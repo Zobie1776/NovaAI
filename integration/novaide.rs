@@ -1,0 +1,1 @@
+// NovaIDE integration stub

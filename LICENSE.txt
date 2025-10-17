@@ -1,0 +1,4 @@
+NovaAI is a proprietary AI core system for NovaOS.
+All rights reserved © ZobieLabs.
+This software is not open source and may not be modified, distributed, or used without express permission.
+Future commercial licensing will be available.

@@ -1,0 +1,1 @@
+// Log scanner placeholder
