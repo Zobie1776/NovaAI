@@ -1,0 +1,11 @@
+[
+  {
+    "text": "// Expected output: Greet function prints name\nfunc test() {\n    greet(\"Zach\");\n}"
+  },
+  {
+    "text": "// Should allocate 1024 bytes\nlet ptr = allocate(1024);"
+  },
+  {
+    "text": "# Should trigger AI confirmation for restarting service\nnova service restart network-manager"
+  }
+]
